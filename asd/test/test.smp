@@ -1,1 +1,4 @@
-hello world
+program miprograma{
+	Entero perro;
+	perro = 5323;
+}
